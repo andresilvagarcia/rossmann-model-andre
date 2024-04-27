@@ -167,6 +167,7 @@ Possíveis pontos para serem abordados no segundo ciclo:
 
 -**Trabalhar com um método mais robusto para achar os melhores Hyper parametros para o modelo**
 
+# Anotações Finais
 
 **Remember that this project is related to the exercises carried out in the Comunidade DS (https://www.comunidadeds.com).**
 
