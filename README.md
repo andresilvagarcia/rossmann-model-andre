@@ -4,7 +4,7 @@
 
 A Rossmann planeja uma reforma geral em todas as suas lojas, porem atualmente a previsão de vendas é feitas através de uma planilha em excel considerando a média das vendas, achando essa metodologia falha e antiga, a administração da empresa busca novas soluções.
 
-Foi realizada uma reunião com os gerentes, diretores e CEO da Rossmann, para planejarem as reformas nas lojas Rossmann a fim de renovar a estética e padronizar as lojas, para essa reforma ser possível a equipe de negócios da Rossmann precisaria contar com as previsões de vendas de todas as lojas para as proximas 6 semanas, porem como atualmente as previsões de vendas eram feitas somente por planilha de média, é impossível ter noção da grandeza de vendas individuais e oscilações de vendas entre cada loja. Diante disso a empresa decidiu contratar um cientista de dados, para ficar ciente de qual é a melhor solução para o problema.
+Foi realizada uma reunião com os gerentes, diretores e CEO da Rossmann, para planejarem as reformas nas lojas Rossmann, para essa reforma ser possível a equipe de negócios da Rossmann precisaria contar com as previsões de vendas de todas as lojas para as proximas 6 semanas. Porem como atualmente as previsões de vendas eram feitas somente por planilha de média, torna-se impossível ter noção da grandeza de vendas individuais e oscilações de vendas entre cada loja. Diante disso a empresa decidiu contratar um cientista de dados, para ficar ciente de qual é a melhor solução para o problema.
 
 Durante a reunião o cientista de dados explicou os detalhes de uma previsão de vendas, bem como os metódos que poderiam ser utilizados. Ao final da reunião ficou a cargo do cientista de dados montar um modelo de previsão de vendas com base em machine learning para responder a questão de negócio da empresa.
 
@@ -148,8 +148,6 @@ Com base no atual Status Quo da empresa é possível analisar, a diferença de p
 
 #  Conclusão
 
-Por fim é possível ter a compreensão que por mais que o modelo baseado em médias seja simples, ainda sim é um modelo coerente e coeso, embora ele não consiga analisar as oscilções de cada loja ele continua sendo uma opção dentro do leque das soluções.
-
 O Modelo XGBoost para o primeiro ciclo (Metodologia CRISP-DM) apresentou um resultado dentro da faixa do aceitavel, embora algumas lojas se apresentaram difíceis de terem o comportamento previsto apresentando o MAPE (Mean Absolute Percenage Error) entre 0.32 a 0.58, esse primeiro resultado será apresentado para empresa, para informar em como está indo o projeto e o que ja se tem como solução.
 
 
@@ -166,9 +164,3 @@ Possíveis pontos para serem abordados no segundo ciclo:
 -**Trabalhar com novas Features para previsão**
 
 -**Trabalhar com um método mais robusto para achar os melhores Hyper parametros para o modelo**
-
-# Anotações Finais
-
-**Remember that this project is related to the exercises carried out in the Comunidade DS (https://www.comunidadeds.com).**
-
-**Lembrando que este projeto são relacionados a exercícios feitos na Comunidade DS (https://www.comunidadeds.com).**
